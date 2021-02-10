@@ -1,0 +1,1 @@
+# Kreiranje-responsivne-galerije
